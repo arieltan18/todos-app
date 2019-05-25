@@ -327,7 +327,7 @@
       <path value="$PROJECT_DIR$/vendor/league/flysystem" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="840" />
     <option name="width" value="1110" />
     <option name="height" value="1040" />
@@ -461,12 +461,12 @@
       <updated>1558004382187</updated>
       <workItem from="1558004383464" duration="12429000" />
       <workItem from="1558186521931" duration="1235000" />
-      <workItem from="1558795919958" duration="271000" />
+      <workItem from="1558795919958" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13935000" />
+    <option name="totallyTimeSpent" value="14269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
